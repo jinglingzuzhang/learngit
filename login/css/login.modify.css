@@ -1,0 +1,26 @@
+body
+{
+    margin: 0px;
+    padding: 0px;
+    font-family:'Verdana','宋体';
+    font-size:12px;
+}
+
+.pull-left{
+    float: left;
+}
+
+.pull-right{
+    float: right;
+}
+
+.clear{
+    clear: both;
+}
+
+.content{
+    width: 100%;
+    height: auto;
+    min-height: 500px;
+    background-color: #009FE7;
+}
