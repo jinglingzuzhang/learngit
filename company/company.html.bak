@@ -1,0 +1,153 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html;charset=utf-8"/>
+    <link rel="stylesheet" type="text/css" href="company.css">
+</head>
+<body class="box">
+<div class="top">
+	<div class="top-left">
+	</div>
+
+		<div class="logo">
+		
+		<img src="img/logo.png">
+		</div>
+
+			<div class="top-href">
+				<div class="top-hrefs">
+				
+					<p class="num"> 123-123-1263</p>
+					<p ><a href="#" class="p">服务热线:</a></p>
+					<p><a href="#" class="p">加入收藏 |</a></p>
+					<p><a href="#" class="p">设为首页 |</a></p>
+
+				</div>
+					<div class="top-hrefw">
+					<p><a href="#" class="list">进入商城</a></p>
+					<p><a href="#" class="list">联系我们</a></p>
+					<p><a href="#" class="list">人力资源</a></p>
+					<p><a href="#" class="list">下载中心</a></p>
+					<p><a href="#" class="list">加盟合作</a></p>
+					<p><a href="#" class="list">业务介绍</a></p>
+					<p><a href="#" class="list">新闻中心</a></p>
+					<p><a href="#" class="list">关于我们</a></p>
+					<p><a href="#" class="list">首页</a></p>
+						
+					</div>
+			</div>
+				<div class="top-right">
+				</div>
+</div>
+
+<div class="img">
+<img src="img/2.png">
+</div>
+
+<div class="next">
+	<div class="next-left">
+	</div>
+
+		<div class="next-mid">
+			<div class="next-top">
+				<div class="next-mid1">
+				<p><a href="#" class="next-mids">
+				<img src="img/list1.png"></br><!--这个换行是因为不理解下一步该怎么执行换行操作了。-->
+				兑换积分</a></p>
+			</div>
+
+			<div class="next-mid1">
+				<p><a href="#" class="next-mids">
+				<img src="img/list2.png"></br>
+				享受优惠 </a></p>
+			</div>
+
+			<div class="next-mid1">
+				<p><a href="#" class="next-mids">
+				<img src="img/list3.png"> </br>关注商家</a></p>
+			</div>
+
+			<div class="next-mid1">
+				<p><a href="#" class="next-mids">
+				<img src="img/list4.png"></br>加盟得惠网</a></p>
+			</div>
+
+			<div class="next-mid2">
+				<div class="next-mid3">
+				<p>业务介绍</p>
+				<img src="img/mid1.png">
+				<p>&nbsp;&nbsp;*************************</p><!--这个p为什么碰到边了不执行换行-->
+				</div>
+				<div class="next-mid3">
+				<p>新闻公告</p>
+				</div>
+				<div class="next-mid3">
+				<p>加盟合作</p>
+				<img src="img/mid3.png">
+				<form>
+				<select name="adress" >
+				<option>请选择你的地区</option>
+				<option>河南</option>
+				<option>上海</option>
+				<option>北京</option>
+				<option>杭州</option>
+				</select>
+				</br><!--这个太麻烦，用换行代替下-->
+				</br>
+				<select name="num">
+				<option>请填写联系方式</option>
+				</select>
+				<!-- 不理解为什么要使用下拉格式-->
+				</form>
+				</div>
+			</div>
+
+			<div class="next-mid4">
+			<div class="next-mid6">宣传视频</div>
+				<div class="next-mid5">
+			   <a href="#"> <img src="img/last1.png">
+				<p>*****</p></a>
+				</div>
+				<div class="next-mid5">
+				<a href="#"> 
+				<img src="img/last2.png">
+				<p>*****</p></a>
+				</div>
+				<div class="next-mid5">
+				<a href="#"> 
+				<img src="img/last3.png">
+				<p>*****</p>
+				</a>
+				</div>
+				<div class="next-mid5">
+				<a href="#"> 
+				<img src="img/last4.png">
+				<p>*****</p>
+				</a>
+				<div>
+			</div>
+		</div>
+
+
+	<!--<div class="next-right">
+	</div>-->
+</div>
+<div class="last">
+		<p class="next-mid6">友情链接</p>
+		<div>baidu</div>
+		<div>taobao</div>
+		<div>guge</div>
+		<div>sousou</div>
+		<div>dangdang</div>
+		<div>fanke</div>
+</div>
+<div class="last1">
+		*********************************
+		******************************
+		<a href="#"><img src="#"></a>
+		<a href="#"><img src="#"></a>
+		<a href="#"><img src="#"></a>
+		<a href="#"><img src="#"></a>
+</div>
+</body>
+</html>
