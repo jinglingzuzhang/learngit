@@ -1,0 +1,186 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html;charset=utf-8"/>
+    <link rel="stylesheet" type="text/css" href="com.css">
+</head>
+<body>
+	<div class="top">
+		<div class="top-left"></div>
+		<div class="top-mid">
+			<div class="num">
+			<img src="img/1.png">
+			<span class="num2">CUSTOMER&nbsp;SERVICE</span>
+			</div>
+			<div class="mid2"><span class="num3">LOGIN</span></div>
+			<div class="mid3">
+			<span class="num4">JOIN&nbsp;FREE</span>
+			</div>
+			<div class="mid4">
+			<form>
+				<select>
+					<option value="USD" class="select">USD</option>
+				</select>
+			</form>
+			</div>
+			<div class="mid5">
+			<form>
+				<select>
+					<option value="ENGLISH" class="num6">ENGLISH</option>
+				</select>
+			</form>
+			<div>
+		</div>
+		<div class="top-left"><div>
+	</div>
+
+	<div class="mid">
+	
+		<div class="mid-left">
+		</div>
+		<div class="mid-mid">
+			<div class="one">
+				<div class="one-img">
+					<img src="img/2.png">
+				</div>
+			</div>
+				
+
+				<table height="50px">
+				<tr>
+		<td>
+				<form>
+				<select>
+					<option value="ENGLISH">HOME</option>
+				</select>
+			</form>
+				</td>
+		<td>1</td>
+		<td><form>
+				<select>
+					<option value="ENGLISH">HBROESMAID DRESSES</option>
+				</select>
+			</form></td>
+		<td>1</td>
+		<td><form>
+				<select>
+					<option value="ENGLISH">WEDONING&nbsp;PARTY</option>
+				</select>
+			</form></td>
+		<td>1</td>
+		<td><form>
+				<select>
+					<option value="ENGLISH">SPECIAL&nbsp;OCCASIONS</option>
+				</select>
+			</form></td>
+			<td>1</td>
+		<td>
+			<form>
+				<select>
+					<option value="ENGLISH">PROM&nbsp;DRESS</option>
+				</select>
+			</form>
+		    </td>
+		<td>1</td>
+		<td><form>
+				<select>
+					<option value="ENGLISH">SAIL</option>
+				</select>
+			</form></td>
+		<td>1</td>					
+				</tr>
+				</table>
+			<div class="mid-top">
+				<div class="mid-top1">
+					<img src="#">
+					<p>此处有图片！！</p>
+				</div>
+				<div class="mid-top2">
+				</div>
+				<div class="mid-top3">
+					<div class="mid-top3-1">
+						<img src="#">
+						<p>此处依然是图片！我上面那个小框框是间隔！</p>
+					</div>
+					<div class="mid-top3-2">
+					</div>
+					<div class="mid-top3-1">
+					<img src="#">
+						<p>没错我也是图片！！</p></div>
+					<div class="mid-top3-2"></div>
+					<div class="mid-top3-1">
+					<img src="#">
+						<p>我还是图片！</p></div>
+				</div>
+		<div class="mid-next">
+		<img src="#">
+		<p align="center">这个效果我不会！</p>
+		</div>
+	<div class="mid-next1">
+
+		<div class="mid-next2"><a href="#"><img src="#"><p>我是图片</p></a></div>
+		<div class="mid-next3"></div>
+
+		<div class="mid-next2"><a href="#"><img src="#"><p>我是图片</p></a></div>
+		<div class="mid-next3"></div>
+
+		<div class="mid-next2"><a href="#"><img src="#"><p>我是图片</p></a></div>
+		<div class="mid-next3"></div>
+
+		<div class="mid-next2"><a href="#"><img src="#"><p>我是图片</p></a></div>
+		
+
+		<div class="mid-next4">我是介绍</div>
+		<div class="mid-next3"></div>
+
+		<div class="mid-next4">我是介绍</div>
+		<div class="mid-next3"></div>
+
+		<div class="mid-next4">我是介绍</div>
+		<div class="mid-next3"></div>
+
+		<div class="mid-next4">我是介绍</div>
+		<div class="mid-next3"></div>
+
+
+		<!---->
+		<div class="mid-next5">
+		<div class="mid-next2"><a href="#"><img src="#"><p>我是图片</p></a></div>
+		<div class="mid-next3"><p></p></div>
+		<div class="mid-next2"><a href="#"><img src="#"><p>我是图片</p></a></div>
+		<div class="mid-next3"></div>
+		<div class="mid-next2"><a href="#"><img src="#"><p>我是图片</p></a></div>
+		<div class="mid-next3"></div>
+		<div class="mid-next2"><a href="#"><img src="#"><p>我是图片</p></a></div>
+	
+
+		<div class="mid-next4">我是介绍！</div>
+		<div class="mid-next3"></div>
+
+		<div class="mid-next4">我是介绍！</div>
+		<div class="mid-next3"></div>
+
+		<div class="mid-next4">我是介绍！</div>
+		<div class="mid-next3"></div>
+
+		<div class="mid-next4">我是介绍！</div>
+		<div class="mid-next3"></div></div>	
+	</div>
+	<div class="mid-last">
+	<div class="mid-last2">
+	<p>我是间隔！</p></div>
+	<div class="mid-last1"><a href="#">我是链接</a></div>
+	<div class="mid-last1"><a href="#">我是链接</a></div>
+	<div class="mid-last1"><a href="#">我是链接</a></div>
+	<div class="mid-last1"><a href="#">重要的事情说三遍</a></div>
+	<div class="mid-last3">
+	<p><a href="#">我上色是为了区别前面的！！其实我也是链接！</a></p>
+	</div>
+	</div>
+	
+		
+		<div class="mid-right">
+		</div>
+	</div>
+</body>
+</html>

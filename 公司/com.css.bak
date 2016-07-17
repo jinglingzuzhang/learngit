@@ -1,0 +1,233 @@
+* {
+    font-size: 12px;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+
+}
+body
+{
+width:952px;
+height:1581px;
+background:white;
+margin:0 auto;
+border:1px solid blue;
+
+}
+.select{
+border:none;
+background:#333333;
+height:13px;
+padding-top:0px;
+color:white;
+font-family:Arial Regular;
+font-size:10px;
+}
+.top
+{
+width:952px;
+height:13px;
+background:#333333;
+float:left;
+}
+.top-left
+{
+width:135px;
+height:13px;
+float:left;
+}
+.top-mid
+{
+width:682px;
+height:13px;
+float:left;
+}
+.num{
+width:80px;
+height:13px;
+float:right;
+}
+.num2{
+width:64px;
+height:13px;
+font-family:Arial Regular;
+font-size:7px;
+padding-top:4px;
+color:white;
+float:right;
+}
+.num3{
+width:37px;
+height:13px;
+font-family:Arial Regular;
+font-size:7px;
+padding-top:4px;
+color:white;
+float:left;
+}
+.num4{
+width:65px;
+height:13px;
+font-family:Arial Regular;
+font-size:7px;
+padding-top:4px;
+color:white;
+float:left;
+}
+.mid2
+{
+width:77px;
+height:13px;
+float:right;
+}
+.mid3{
+width:75px;
+height:13px;
+float:right;
+}
+.mid4{
+width:86px;
+height:13px;
+float:right;
+}
+.mid5
+{
+width:113px;
+height:13px;
+float:right;
+}
+
+/*此处有大问题！！！下面还有！！！*/
+.mid{
+width:952px;
+height:1568px;
+margin-left:-388px;
+}
+.mid-left{
+width:135px;
+height:1568px;
+float:left;
+}
+.mid-mid{
+width:680px;
+height:1568px;
+border:1px solid red;
+float:left;
+}
+.mid-right{
+width:135px;
+height:1568px;
+float:right;
+}
+.one
+{
+width:160px;
+height:50px;
+float:left;
+border:1px solid red;
+}
+.one-img
+{
+width:130px;
+height:50px;
+float:left;
+}
+select{
+font-size:7px;
+color:black;
+}
+.mid-top{
+width:680px;
+height:465px;
+float:left;
+}
+.mid-top1
+{
+width:680px;
+height:325px;
+float:left;
+border:1px solid gray;
+}
+.mid-top2{
+width:680px;
+height:3px;
+float:left;
+
+}
+.mid-top3{
+width:680px;
+height:137px;
+float:left;
+border:1px solid green;
+}
+.mid-top3-1{
+width:223px;
+height:137px;
+float:left;
+border:1px solid blue;
+}
+.mid-top3-2{
+width:2px;
+height:137px;
+float:left;
+}
+.mid-next{
+width:680px;
+height:160px;
+float:left;
+border:1px solid black;
+}
+.mid-next1{
+width:680px;
+height:711px;
+float:left;
+}
+.mid-next2{
+width:160px;
+height:257px;
+float:left;
+border:1px solid gray;
+margin-top:0px;
+}
+.mid-next3{
+height:257px;
+width:10px;
+float:left;
+}
+.mid-next4{
+height:82px;
+width:160px;
+float:left;
+border:1px solid red;
+}
+/* 下面有问题！！*/
+.mid-next5{
+width:680px;
+height:370px;
+/*！！！ */margin-top:-257px;
+float:left;
+}
+.mid-last{
+width:680px;
+height:172px;
+float:left;
+border:1px solid red;
+background:#f4f4f4;
+}
+.mid-last1{
+width:104px;
+height:172px;
+float:left;
+border:1px solid red;
+}
+.mid-last2{
+width:40px;
+height:172px;
+float:left;
+}
+.mid-last3{
+width:217px;
+height:172px;
+float:left;
+background:gray;
+}
